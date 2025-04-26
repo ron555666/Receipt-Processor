@@ -1,6 +1,6 @@
 # Receipt Processor API (Django + Docker)
 
-This is a simple Django REST API that processes receipts and calculates reward points.  
+This is a simple Django REST Framework API that processes receipts and calculates reward points.  
 All data is stored in memory. No database is used.
 
 ---
